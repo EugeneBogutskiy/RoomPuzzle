@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 98f7370eda50f3847af1f79fea0843ea
+  m_SerializeEntries:
+  - m_GUID: 4407b466a0e321c41a28f477d75e797c
+    m_Address: InventoryTestItemCube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3cc3018d158599543bc04e36ceb5babe
+    m_Address: InventoryTestItemSphere
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec6b08c70a8ef674f99bcd55014b036b
+    m_Address: InventoryTestItemCapsule
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 30934367880eca844aae7ba8d5da52ae, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1648be5331b571544a8db11cee3f007d, type: 2}
+    - {fileID: 11400000, guid: 53c83aa4cfc1d5240a42706282d434fd, type: 2}
